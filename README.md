@@ -12,13 +12,11 @@
 ### Hi there, I'm Ilham Setiawan 👋
 
 I'm a Information Systems Student, Cloud & Linux Enthusiast!
-- 🌱 I’m currently learning `python`
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love 📸 | 🎨 | 🐶 | 👨‍💻
+- 🌱 I’m currently learning 'kubernetes,Python`
+
 
 ### Connect with me:
 
-[<img align="left" alt="IlhamSetiawan | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="IlhamSetiawan | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
 [<img align="left" alt="IlhamSetiawan | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 [<img align="left" alt="IlhamSetiawan | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
