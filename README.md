@@ -12,7 +12,7 @@
 ### Hi there, I'm Ilham Setiawan 👋
 
 I'm a Information Systems Student, Cloud & Linux Enthusiast!
-- 🌱 I’m currently learning 'kubernetes,Python`
+- 🌱 I’m currently learning 'kubernetes And Python'
 
 
 ### Connect with me:
@@ -34,9 +34,12 @@ I'm a Information Systems Student, Cloud & Linux Enthusiast!
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://www.google.com/search?&q=Github)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/search?&q=command+line+interface)
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
+[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png />](https://www.google.com/search?&q=Kubernetes)
+
+
 
 <br />
 <br />
 
-#
+
 
