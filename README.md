@@ -4,26 +4,24 @@
 [gmail]: mailto:ilhamsetiawan2000x@gmail.com
 
 <p align="center">
-  <img alt="adi1090x's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IlhamSetiawan&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img alt="IlhamSetiawan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IlhamSetiawan&show_icons=true&include_all_commits=true&hide_border=true" />
 <!--  <img alt="profile pic" width="195px" src="https://avatars2.githubusercontent.com/u/26059688?s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" />  -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adi1090x&hide=ruby,perl&hide_border=true" />  -->
 </p>
 
-### Hi there, I'm Aditya Shakya 👋
+### Hi there, I'm Ilham Setiawan 👋
 
-I'm a Software Developer, System Designer & Linux Enthusiast!
-- 🔭 I’m currently working on Archcraft
+I'm a Information Systems Student, Cloud & Linux Enthusiast!
 - 🌱 I’m currently learning `python`
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Improve Archcraft and contribute more to other open source projects
 - ⚡ Fun fact: I love 📸 | 🎨 | 🐶 | 👨‍💻
 
 ### Connect with me:
 
-[<img align="left" alt="adi1090x | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="adi1090x | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
-[<img align="left" alt="adi1090x | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="adi1090x | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
+[<img align="left" alt="IlhamSetiawan | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" alt="IlhamSetiawan | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
+[<img align="left" alt="IlhamSetiawan | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
+[<img align="left" alt="IlhamSetiawan | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
 <br />
 
