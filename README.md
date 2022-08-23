@@ -13,12 +13,7 @@ I'm a Information Systems Student, Cloud & Linux Enthusiast!
 - 🌱 I’m currently learning 'kubernetes And Python'
 
 
-### Connect with me:
 
-[<img align="left" alt="IlhamSetiawan | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="IlhamSetiawan | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
-
-<br />
 
 ### Languages and Tools:
 
